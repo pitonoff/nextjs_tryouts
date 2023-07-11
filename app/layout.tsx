@@ -10,7 +10,6 @@ export const metadata: Metadata = {
  const styles = {
     body: {
       display: 'flex',
-      flexDirection: 'column',
       minHeight: '100vh',
     },
     main: {
